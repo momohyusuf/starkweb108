@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Mattiyaweh.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning Mobile App developement.
 - 👯 I’m looking to collaborate on projects with other developers.
 - 🤔 I’m open to Remote/Onsite MERN stack roles
 
